@@ -1,0 +1,57 @@
+	/* .page-wrapper {
+		background-color: #561926;
+		color: white;
+	}
+	
+	.intro {
+		background-image: url("/week4/images/ocean-sunset.jpg");
+		background-position:0 0px;
+		background-size:contain;
+		background-blend-mode: screen;
+		background-repeat: no-repeat;
+		background-size: 120%;
+		object-fit: cover;
+	}
+	header h1 {
+		color: white;
+		border: 2px solid white;
+		margin: 0 auto;
+		max-width: 100px;
+		text-align:center;
+		letter-spacing: .2rem;
+	
+	}
+	header {
+		padding: 5rem 2rem;
+	}
+	header h1::first-letter {
+		font-size: ;
+	}
+	header h2 {
+		color: white;
+		font-size: 8rem;
+		text-align: right;
+		filter: drop-shadow(5px 5px 5px black);
+		padding-top: 6rem;
+		padding-right: 5rem;
+		margin-left: 35%;
+	}
+.intro div:nth-child(2n){
+	margin-top: -150px;
+	margin-left: 10rem;
+	max-width: 35%;
+	padding: 1rem;
+	border: 4px solid white;
+} */
+
+
+	:root {
+		/* CSS HSL */
+		--gray: hsla(250, 3%, 35%, 1);
+		--teal: hsla(180, 96%, 38%, 1);
+		--blue: hsla(186, 96%, 33%, 1);
+		--turquoise: hsla(185, 100%, 46%, 1);
+		--yellow: hsla(48, 100%, 50%, 1);
+		--orange: hsla(39, 94%, 49%, 1);
+		--white: hsla(0, 0%, 100%, 1);
+	}
